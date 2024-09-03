@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestSolver(t *testing.T) {
+func TestGame(t *testing.T) {
 	testCases := []struct {
 		name     string
 		testCase TestCase
